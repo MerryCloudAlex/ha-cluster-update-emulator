@@ -521,6 +521,7 @@ class Emulator:
   vpn config save after_upgrade
   machine backup export usb
   machine config export usb
+  test
 """)
 
 if __name__ == "__main__":
